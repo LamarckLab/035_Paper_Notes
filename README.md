@@ -1,3 +1,5 @@
+2026-01-02
+---
 ## Machine learning methods accurately predict host specificity of coronaviruses based on spike sequences alone
 
 ---
@@ -8,7 +10,6 @@
 - **Journal**: *Biochemical and Biophysical Research Communications*  
 - **Impact Factor**: 2.2  
 - **Publication Year**: 2020  
-- **Reading Date**: 2026-01-02  
 
 ---
 
