@@ -21,7 +21,7 @@
 
 ## Knowledge Nuggets
 
-- 数据源是[Virus Pathogen Database](https://www.viprbrc.org)
-- tSVD(Truncated Singular Value Decomposition，截断奇异值分解)和PCA一样，都用于做降维，但是tSVD不需要做中心化,而且更加适合稀疏矩阵
+- 数据源是 [Virus Pathogen Database (ViPR) ](https://www.viprbrc.org)
+- tSVD (Truncated Singular Value Decomposition，截断奇异值分解) 和PCA一样，都用于做降维，但是tSVD不需要做中心化,而且更加适合稀疏矩阵
 - 通用的氨基酸缩写有25种，其中20种是标准氨基酸，5种是“歧义/特殊”编码
 - 如果对氨基酸序列做one-hot encoding，每一个氨基酸变成25位，全0表示gap
